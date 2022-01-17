@@ -3,7 +3,7 @@
 ## I'm a Frontend Developer <img width='20px' src="https://raw.githubusercontent.com/XlugX/XlugX/main/src/wave.gif">
 
 - 🌱 I am currently working and actively researching the frontend.
-- 🏆 2021 Goals: Create your own complete web application.
+- 🏆 2022 Goals: Create your own complete web application.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/aleksandr-lugchenko-92413220a/)
 - 💻 The company I work with [TheWatch](https://www.thewatch.io/)
 
